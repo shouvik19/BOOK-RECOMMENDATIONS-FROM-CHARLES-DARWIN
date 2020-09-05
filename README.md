@@ -5,4 +5,4 @@ To this purpose, we will develop the bases of a content-based book recommendatio
 
 Let's take a look at the books we'll use in our recommendation system.
 
-The dataset was manually collected from Project Gutenberg.[GitHub](http://github.com)
+The dataset was manually collected from [Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=charles+darwin&submit_search=Go%21)
